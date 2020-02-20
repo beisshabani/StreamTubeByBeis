@@ -1,3 +1,4 @@
+// edit section 
 
 function ResponsiveHS(drop, after, position) {
     var RDrop = document.getElementById(drop);
